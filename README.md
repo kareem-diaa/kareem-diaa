@@ -1,6 +1,6 @@
 ## Hello there!👋
 <p align="center">
-  <a href="https://www.linkedin.com/in/kareemdiaahelal" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/kareem-diaa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
   <a href="https://github.com/kareemdiaahelal" target="_blank"><img src="https://img.shields.io/github/followers/kareemdiaa?label=Follow&style=social"/></a>
   <a href="mailto:kareemdiaabusiness@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
@@ -37,7 +37,7 @@
 
 ## 📱 Contact Me
 
-💬 Reach out directly via [WhatsApp](https://wa.me/201227872116) for collaboration, speaking opportunities, or tech discussions.
+💬 Reach out directly via [LinkedIn](https://www.linkedin.com/in/kareem-diaa) for collaboration, speaking opportunities, or tech discussions.
 
 ---
 
