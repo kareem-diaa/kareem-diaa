@@ -29,9 +29,9 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kareemdiaa&show_icons=true&theme=radical" alt="kareemdiaa" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kareemdiaahelal&show_icons=true&theme=radical" alt="kareemdiaahelal" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kareemdiaa&theme=radical" alt="kareemdiaa" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kareemdiaahelal&theme=radical" alt="kareemdiaahelal" />
 </p>
 
 ---
