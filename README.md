@@ -35,7 +35,13 @@
 
 ---
 
-/*
+## 📱 Contact Me
+
+💬 Reach out directly via [WhatsApp](https://wa.me/201227872116) for collaboration, speaking opportunities, or tech discussions.
+
+---
+
+<!-- 
 - 🔭 I’m currently working on
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -44,5 +50,5 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-*/
+-->
 
