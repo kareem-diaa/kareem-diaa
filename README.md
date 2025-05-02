@@ -11,6 +11,7 @@
 - 🛡️ I love defending systems and exploring **network security, threat detection, and ethical hacking**  
 - 🏆 Vice President of the **Student Union** at **SUT**
 - 💼 **Junior Teaching Assistant (Jr. TA)** at **WE School for Applied Technology**, mentoring students in Networking & Telecommunications
+- ⌛ ***And more to come..!***
 
 ---
 
