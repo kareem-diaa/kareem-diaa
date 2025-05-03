@@ -15,7 +15,7 @@
 
 ---
 
-## 🚀 Skills & Tools
+## 🚀 Skills
 
 - **Networking**
 - **Security**
