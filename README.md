@@ -1,4 +1,4 @@
-## 👋 Hello There! I'm Kareem Diaa
+## 👋 Hello There!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kareem-diaa" target="_blank">
