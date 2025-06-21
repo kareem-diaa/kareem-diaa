@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/TryHackMe-E60000?style=for-the-badge&logo=tryhackme&logoColor=white"/>
   </a>
 
-  <a href="https://www.credly.com/users/kareem-diaa" target="_blank">
+  <a href="https://www.credly.com/users/kareemdiaa" target="_blank">
     <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white"/>
   </a>
 
