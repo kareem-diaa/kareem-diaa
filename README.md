@@ -36,10 +36,9 @@
   </a>
 </div>
 
-
 ## 👨‍💻 About Me
 
-- ⌛ **COMING SOON..!**
+- A cybersecurity enthusiast who enjoys exploring how systems work and is actively discovering my niche in the cybersecurity field.
 
 ---
 
