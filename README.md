@@ -30,15 +30,12 @@
   </a>
 </p>
 
-<div align="center">
-  <a href="https://tryhackme.com/p/kareemdiaa">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/kareemdiaa.png" alt="TryHackMe">
-  </a>
-</div>
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3391119" style='border:none;'></iframe>
+
 
 ## 👨‍💻 About Me
 
-- A cybersecurity enthusiast who enjoys exploring how systems work and is actively discovering my niche in the cybersecurity field.
+- A cybersecurity enthusiast who enjoys exploring how systems work and is actively discovering new tools, technologies, and techniques in the cybersecurity field.
 
 ---
 
