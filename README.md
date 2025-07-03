@@ -30,8 +30,11 @@
   </a>
 </p>
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3391119" style='border:none;'></iframe>
-
+<div align="center">
+  <a href="https://tryhackme.com/p/kareemdiaa">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/kareemdiaa.png" alt="My TryHackMe Badge">
+  </a>
+</div>
 
 ## 👨‍💻 About Me
 
