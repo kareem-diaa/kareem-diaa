@@ -30,11 +30,8 @@
   </a>
 </p>
 
-<div align="center">
-  <a href="https://tryhackme.com/p/kareemdiaa">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/kareemdiaa.png" alt="My TryHackMe Badge">
-  </a>
-</div>
+
+
 
 ## 👨‍💻 About Me
 
